@@ -6,5 +6,5 @@
 5. Visualize and design CNN with transfer learning
 6. Build RNN with Keras/TensorFlow
 7. Build autoencoders with Keras/TensorFlow
-8. Build GAN with Keras/TensorFlow
-9. Perform object detection with YOLO3
+8. Perform object detection with YOLO3
+9. Build GAN with Keras/TensorFlow
